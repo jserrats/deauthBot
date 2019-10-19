@@ -1,0 +1,12 @@
+{
+    "name": {
+        "client": "FF:FF:FF:FF:FF:FF",
+        "ap": "FF:FF:FF:FF:FF:FF",
+        "channel": 5
+    },
+    "name2": {
+        "client": "FF:FF:FF:FF:FF:FF",
+        "ap": "FF:FF:FF:FF:FF:FF",
+        "channel": 5
+    }
+}
